@@ -9,6 +9,10 @@ https://thiagoborges.net.br/como-consumir-um-web-service-no-c/
 
 `https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl`
 
+Manual
+ 
+`http://www.corporativo.correios.com.br/encomendas/sigepweb/doc/Manual_de_Implementacao_do_Web_Service_SIGEP_WEB.pdf`
+
 # Para testar
 
 GET para `https://localhost:5001/Correios/88053-454`
